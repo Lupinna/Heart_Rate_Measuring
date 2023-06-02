@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kolumpková"
+  given-names: "Lucie"
+  orcid: "https://orcid.org/0009-0004-7682-3342"
+title: "Script for non-contact heart rate measurement"
+version: 1.0.0
+doi: 10.5281/zenodo.7997756
+date-released: 2023-06-02
+url: "https://doi.org/10.5281/zenodo.7997756"
